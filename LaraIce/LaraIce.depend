@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1626216334 source:c:\users\usuario\desktop\ejercicios de practica\parcial2-tema2\laraice\main.cpp
+	<iostream>
+	"LaraIce.h"
+
+1626216286 source:c:\users\usuario\desktop\ejercicios de practica\parcial2-tema2\laraice\src\laraice.cpp
+	"LaraIce.h"
+	<iostream>
+
+1626214760 c:\users\usuario\desktop\ejercicios de practica\parcial2-tema2\laraice\include\laraice.h
+
